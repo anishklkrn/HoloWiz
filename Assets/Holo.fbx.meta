@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: dc75c6fb1e8c9304486b367592316550
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bob02.objMesh
+    100002: chest
+    100004: chest1
+    100006: eye.L
+    100008: eye.R
+    100010: eyelashes04.objMesh
+    100012: f_index.01.L
+    100014: f_index.01.R
+    100016: f_index.02.L
+    100018: f_index.02.R
+    100020: f_index.03.L
+    100022: f_index.03.R
+    100024: f_middle.01.L
+    100026: f_middle.01.R
+    100028: f_middle.02.L
+    100030: f_middle.02.R
+    100032: f_middle.03.L
+    100034: f_middle.03.R
+    100036: f_pinky.01.L
+    100038: f_pinky.01.R
+    100040: f_pinky.02.L
+    100042: f_pinky.02.R
+    100044: f_pinky.03.L
+    100046: f_pinky.03.R
+    100048: f_ring.01.L
+    100050: f_ring.01.R
+    100052: f_ring.02.L
+    100054: f_ring.02.R
+    100056: f_ring.03.L
+    100058: f_ring.03.R
+    100060: female_muscle_13442.objMesh
+    100062: foot.L
+    100064: foot.R
+    100066: forearm.L
+    100068: forearm.R
+    100070: hand.L
+    100072: hand.R
+    100074: head
+    100076: high-poly.objMesh
+    100078: hips
+    100080: //RootNode
+    100082: jaw
+    100084: lolid.L
+    100086: lolid.R
+    100088: neck
+    100090: shin.L
+    100092: shin.R
+    100094: shoulder.L
+    100096: shoulder.R
+    100098: spine
+    100100: teeth_base.objMesh
+    100102: thigh.L
+    100104: thigh.R
+    100106: thumb.01.L
+    100108: thumb.01.R
+    100110: thumb.02.L
+    100112: thumb.02.R
+    100114: thumb.03.L
+    100116: thumb.03.R
+    100118: toe.L
+    100120: toe.R
+    100122: tongue01.objMesh
+    100124: tongue_base
+    100126: tongue_mod
+    100128: tongue_tip
+    100130: Unity compliant skeleton
+    100132: uplid.L
+    100134: uplid.R
+    100136: upper_arm.L
+    100138: upper_arm.R
+    400000: bob02.objMesh
+    400002: chest
+    400004: chest1
+    400006: eye.L
+    400008: eye.R
+    400010: eyelashes04.objMesh
+    400012: f_index.01.L
+    400014: f_index.01.R
+    400016: f_index.02.L
+    400018: f_index.02.R
+    400020: f_index.03.L
+    400022: f_index.03.R
+    400024: f_middle.01.L
+    400026: f_middle.01.R
+    400028: f_middle.02.L
+    400030: f_middle.02.R
+    400032: f_middle.03.L
+    400034: f_middle.03.R
+    400036: f_pinky.01.L
+    400038: f_pinky.01.R
+    400040: f_pinky.02.L
+    400042: f_pinky.02.R
+    400044: f_pinky.03.L
+    400046: f_pinky.03.R
+    400048: f_ring.01.L
+    400050: f_ring.01.R
+    400052: f_ring.02.L
+    400054: f_ring.02.R
+    400056: f_ring.03.L
+    400058: f_ring.03.R
+    400060: female_muscle_13442.objMesh
+    400062: foot.L
+    400064: foot.R
+    400066: forearm.L
+    400068: forearm.R
+    400070: hand.L
+    400072: hand.R
+    400074: head
+    400076: high-poly.objMesh
+    400078: hips
+    400080: //RootNode
+    400082: jaw
+    400084: lolid.L
+    400086: lolid.R
+    400088: neck
+    400090: shin.L
+    400092: shin.R
+    400094: shoulder.L
+    400096: shoulder.R
+    400098: spine
+    400100: teeth_base.objMesh
+    400102: thigh.L
+    400104: thigh.R
+    400106: thumb.01.L
+    400108: thumb.01.R
+    400110: thumb.02.L
+    400112: thumb.02.R
+    400114: thumb.03.L
+    400116: thumb.03.R
+    400118: toe.L
+    400120: toe.R
+    400122: tongue01.objMesh
+    400124: tongue_base
+    400126: tongue_mod
+    400128: tongue_tip
+    400130: Unity compliant skeleton
+    400132: uplid.L
+    400134: uplid.R
+    400136: upper_arm.L
+    400138: upper_arm.R
+    2100000: female_muscle_13442.obj
+    2100002: bob02.obj
+    2100004: high-poly.obj
+    2100006: eyelashes04.obj
+    2100008: teeth_base.obj
+    2100010: tongue01.obj
+    4300000: female_muscle_13442.objMesh
+    4300002: bob02.objMesh
+    4300004: high-poly.objMesh
+    4300006: eyelashes04.objMesh
+    4300008: teeth_base.objMesh
+    4300010: tongue01.objMesh
+    9500000: //RootNode
+    13700000: bob02.objMesh
+    13700002: eyelashes04.objMesh
+    13700004: female_muscle_13442.objMesh
+    13700006: high-poly.objMesh
+    13700008: teeth_base.objMesh
+    13700010: tongue01.objMesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
